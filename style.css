@@ -1,0 +1,102 @@
+body {
+    background-color: black;
+    color: white
+    
+    
+  }
+  div {margin:10px;
+}
+
+.navItems{
+    width:100px;
+    display:flex;
+    align-items: center;
+   
+   
+}
+.chao-logo {
+    width:50px;
+}
+
+.top{
+    display:flex;
+    justify-content: space-between;
+    font-family: Montserrat;
+}
+.nav1{
+    display:flex;
+    margin-left:50px;
+    
+}
+
+.nav2{
+    display:flex;
+    font-size: small;
+
+}
+
+.homeButton {
+    border: 1px solid white;
+  border-radius: 5px;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: black;
+  color: white;
+  font-size: 13px;
+  margin-right: 50px;
+}
+
+.middle{
+
+    text-align: left
+
+
+}
+.card {
+    width: 400px;
+    height: 400px;
+    float: right;
+  margin-right:50px;
+  position: absolute;
+  top: 250px;
+  right: 150px;
+
+    
+}
+.title { font-size: 30px;
+        inline-size: 468px;
+        font-family: Montserrat;
+        padding-top: 100px;
+       margin-left: 50px;
+}
+
+.para { inline-size: 355px;
+    font-family: Montserrat;
+    padding-bottom: 20px;  
+    margin-left: 50px;  
+}
+
+#email {background-color: black;
+    font-family: Montserrat;
+    border: 1px solid rgb(34, 34, 34);
+  border-radius: 5px;
+  padding: 10px;
+  padding-right: 20px;
+  background-color: black;
+  color: rgb(34, 34, 34);
+  margin-left: 40px;
+}
+#submit {
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    font-size: 13px;
+    padding: 10px;
+    font-family: Montserrat;
+    font-style: bold;
+    
+}
+
+
